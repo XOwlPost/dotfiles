@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "vercelVSCode.accessToken": "lheVa80KIFXoq6pZx78Qo05Q",
+        "vercelVSCode.projectId": "prj_C10RMoroFLUhacQMcHsTq5o1agD0",
+        "vercelVSCode.teamId": "team_vH5MMrAeIgwOXuVAqrBAUD9e",
+        "WillLuke.nextjs.addTypesOnSave": true,
+        "WillLuke.nextjs.hasPrompted": true
+    }
+}

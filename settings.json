@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "security.workspace.trust.untrustedFiles": "open",
+    "dev.containers.experimentalLockfile": true,
+    "php.validate.executablePath": ""
+}
